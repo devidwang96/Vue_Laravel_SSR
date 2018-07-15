@@ -1,0 +1,26 @@
+*{
+    box-sizing:border-box;
+    outline:none;
+    margin: 0;
+    padding: 0;
+    &:active{
+        outline:none;
+    }
+}
+
+body{
+    font-family: Comfortaa;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 34px;
+    color: #5f7079;
+}
+
+ul, ol{
+    padding: 0;
+}
+
+input{
+    border:none;
+    box-shadow:none;
+}

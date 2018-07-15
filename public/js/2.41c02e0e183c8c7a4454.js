@@ -1,0 +1,1 @@
+webpackJsonp([2],{"JC/S":function(e,t,n){var r=n("VU/8")(null,n("tp+6"),null,null);e.exports=r.exports},"tp+6":function(e,t){e.exports={render:function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},staticRenderFns:[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("h1",[e._v("About")])])}]}}});
